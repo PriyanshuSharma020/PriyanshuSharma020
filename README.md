@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyanshuSharma020
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in UI/UX Designing 
 - 🌱 I’m currently learning BCA
 - 📫 How to reach me -priyanshu34sharma@gmail.com
 
